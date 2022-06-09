@@ -47,6 +47,7 @@ If you're on a Mac, pipe the output into `pbcopy` to add the stuff directly to y
     cd badger
     bundle
     rake
+    
 
 ### Adding a new license
 
